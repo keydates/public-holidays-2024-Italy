@@ -1,0 +1,126 @@
+{
+  "product": "Italy Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Epiphany",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-06T12:00:00",
+      "endDate": "2024-01-06T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "purple",
+      "description": "Celebration of the manifestation of Jesus to the Magi"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-21T12:00:00",
+      "endDate": "2024-04-21T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebration of the resurrection of Jesus from the dead"
+    },
+    {
+      "title": "Liberation Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-25T12:00:00",
+      "endDate": "2024-04-25T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of the liberation of Italy from the Nazi occupation in 1945"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of workers and labor movements"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-02T12:00:00",
+      "endDate": "2024-06-02T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "cyan",
+      "description": "Celebration of the birth of the Italian Republic"
+    },
+    {
+      "title": "Assumption of Mary",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-08-15T12:00:00",
+      "endDate": "2024-08-15T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "pink",
+      "description": "Celebration of the bodily taking up of Mary into Heaven"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-01T12:00:00",
+      "endDate": "2024-11-01T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Celebration of all saints, known and unknown"
+    },
+    {
+      "title": "Immaculate Conception",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-08T12:00:00",
+      "endDate": "2024-12-08T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "amber",
+      "description": "Celebration of the belief in the sinless life of the Virgin Mary"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "orange",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "St. Stephen's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government of Italy",
+      "product": "Italy Public Holidays 2024",
+      "style": "lime",
+      "description": "Celebration of the first Christian martyr"
+    }
+  ]
+}
